@@ -1,8 +1,10 @@
 import React from 'react'
 import "./nav.css"
 
-export default function nav() {
+export const nav = () => {
   return (
     <div>nav</div>
   )
 }
+
+export default nav
