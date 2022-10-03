@@ -5,10 +5,10 @@ import {AiOutlineUser} from 'react-icons/ai'
 import {BiBook} from 'react-icons/bi'
 import {RiServiceLine} from 'react-icons/ri'
 import {BiMessageSquareDetail} from 'react-icons/bi'
-import {useState} from 'react'
+import {useState as UseState} from 'react'
 
 export const nav = () => {
-  const [activeNav, setActiveNav] = useState('#');
+  const [activeNav, setActiveNav] = UseState('#');
   return (
     <nav>
       <a href="#" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
