@@ -1,9 +1,9 @@
 import React from 'react'
 import "./about.css"
 import ME from '../../assets/me-about.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUser} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import {FaPhotoVideo} from 'react-icons/fa'
+import {MdDesignServices} from 'react-icons/md'
+import {SiArduino} from 'react-icons/si'
 
 export const about = () => {
   return (
@@ -19,27 +19,27 @@ export const about = () => {
         </div>
         <div className="about__content">
           <div className="about__cards">
-            <article className='about__card'>
-              <FaAward className='about__item'/>
-              <h5>Experience</h5>
-              <small>3+ year</small>
+            {/* <article className='about__card'>
+              <FaPhotoVideo className='about__item'/>
+              <h5>Editing</h5>
+              <small>Photo and Video</small>
             </article> 
 
             <article className='about__card'>
-              <FiUser className='about__item'/>
-              <h5>Client</h5>
-              <small>300 client</small>
+              <MdDesignServices className='about__item'/>
+              <h5>Web Developer</h5>
+              <small>Frontend and Backend</small>
             </article> 
 
             <article className='about__card'>
-              <VscFolderLibrary className='about__item'/>
-              <h5>Project</h5>
+              <SiArduino className='about__item'/>
+              <h5>Microkontroller</h5>
               <small>3+ complete project</small>
-            </article> 
+            </article>  */}
  
           </div>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+          Saya fresh graduate dari Politeknik Negeri Jember, Jurusan Teknologi Informasi, Program Studi D3 Teknik Komputer dan mendapatkan IPK 3.80, saya merupakan orang yang bertanggung jawab, displin, suka belajar hal baru tentang teknologi. Saya berpengalaman pada bidang programming pada website dan microkontroller, dan juga berpengalaman pada bidang editing photo dan viddeo
           </p>
           <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         </div>
