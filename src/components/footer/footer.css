@@ -60,7 +60,10 @@ footer a{
     }    
 
     .footer__socials {
+        width: 80%;
+        flex-wrap: wrap;
         margin-bottom: 2.6rem;
+        margin-left: 10%;
     }
 }
 

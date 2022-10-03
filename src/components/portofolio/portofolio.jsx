@@ -15,7 +15,7 @@ const data = [
     image: IMG1,
     tittle: 'Website GMDP (kediri)',
     link:'https://gmdpkediri.com/',
-    isi: 'GMDP Kediri merupakan sebauh perusahaan yang bergerak di bidang ISP (Internet Service Provider) atau disebut juga dengan Jasa Penyedia Layanan Internet',
+    isi: 'GMDP Kediri merupakan sebauh perusahaan yang bergerak di bidang ISP (Internet Service Provider) atau disebut juga dengan Jasa Penyedia Layanan Internet.',
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const data = [
     image: IMG3,
     tittle: 'Website Para Pasir Indonesia',
     link: 'https://volcanicsandindonesia.com/',
-    isi: 'Website Para Pasir Indonesia adalah sebuah website yang menjual berbagai macam pasir volcanic yang berada di Indonesia',
+    isi: 'Website Para Pasir Indonesia adalah sebuah website yang menjual berbagai macam pasir volcanic yang berada di Indonesia.',
   },
   {
     id: 4,
@@ -43,14 +43,14 @@ const data = [
     image: IMG5,
     tittle: 'Website Aim Nusantara',
     link: 'https://aimnusantara.com/product/',
-    isi: 'Website Aim Nusantara adalah website yang menjual berbagai macam rempah-rempah yang ada di indonesia contohnya kakao, coffe bean, Raw Cashew Nut, Coconut, dan lain-lain',
+    isi: 'Website Aim Nusantara adalah website yang menjual berbagai macam rempah-rempah yang ada di indonesia contohnya cocoa, coffe bean, Raw Cashew Nut, Coconut, briquette charcoal dan lain-lain.',
   },
   {
     id: 6,
     image: IMG6,
     tittle: 'Website Meet Doctor',
     link: 'https://github.com/Alifian438/BWA-laravel',
-    isi: 'Website Meet Doctor adalah project yang saya buat saat mengikuti pelatihan bootcamp pada BWA(BuildWith Angga) website ini di buat untuk mempermudah pasien bertemu dengan doctor',
+    isi: 'Website Meet Doctor adalah project yang saya buat saat mengikuti pelatihan bootcamp pada BWA(BuildWith Angga) website ini di buat untuk mempermudah pasien bertemu dengan doctor.',
   },
 ]
 

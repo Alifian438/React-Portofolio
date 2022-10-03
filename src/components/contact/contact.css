@@ -69,6 +69,7 @@ input, textarea{
     }
 
     form{
-        width: var(--container-width-sm);
+        /* width: var(--container-width-sm); */
+        width: 85%;
     }
 }
