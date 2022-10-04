@@ -5,6 +5,9 @@ import {BsInstagram} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
 import {useRef as UseRef} from 'react'
 import emailjs from "emailjs-com"
+import Swal from 'sweetalert2'
+import withReactContent from 'sweetalert2-react-content'
+
 
 export const contact = () => {
   const form = UseRef();
@@ -15,6 +18,15 @@ export const contact = () => {
     emailjs.sendForm('service_8y6ca1g', 'template_8ggybze', form.current, 'NiuKRrkKd1RRKMcUF')
     
     e.target.reset()
+
+    Swal.fire({
+      title: 'Pesan telah terkirim',
+      text: 'Terimakasih',
+      imageUrl: 'https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif',
+      imageWidth: 400,
+      imageHeight: 200,
+      imageAlt: 'Custom image',
+    })
   };
 
   return (

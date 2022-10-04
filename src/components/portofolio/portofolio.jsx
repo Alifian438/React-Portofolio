@@ -15,14 +15,14 @@ const data = [
     image: IMG1,
     tittle: 'Website GMDP (kediri)',
     link:'https://gmdpkediri.com/',
-    isi: 'GMDP Kediri merupakan sebauh perusahaan yang bergerak di bidang ISP (Internet Service Provider) atau disebut juga dengan Jasa Penyedia Layanan Internet.',
+    isi: 'GMDP Kediri merupakan sebuah perusahaan yang bergerak di bidang ISP (Internet Service Provider) atau disebut juga dengan Jasa Penyedia Layanan Internet.',
   },
   {
     id: 2,
     image: IMG2,
     tittle: 'Website PSGFC Kediri',
     link: 'https://psgfc.id/',
-    isi: 'Website PSGF Kediri ini adalah sebua website untuk memanajemen informasi dan memanajemen anggota, dan membahas topik sekilas Sepak Bola yang ada di daerah Kediri.',
+    isi: 'Website PSGF Kediri ini adalah sebuah website untuk memanajemen informasi dan memanajemen anggota, dan membahas topik sekilas Sepak Bola yang ada di daerah Kediri.',
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const data = [
     image: IMG4,
     tittle: 'Website Kurniagroup',
     link: 'https://kurniagroup.psgfc.id/',
-    isi: 'Website Kurniagroup adalah sebuah website personal yang di dalamnya berisi informasi mengenai perosnal dan dimanfaatkan untuk jasa pemasangan Wifi maupun CCTV dll.',
+    isi: 'Website Kurniagroup adalah sebuah website personal yang di dalamnya berisi informasi mengenai personal dan dimanfaatkan untuk jasa pemasangan Wifi maupun CCTV dll.',
   },
   {
     id: 5,
