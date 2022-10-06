@@ -76,20 +76,20 @@ export const experience = () => {
                 <small className='text-light'>Experienced</small>
                 </div>
               </article>
-              <article className='experience__details'>
+              {/* <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>Golang</h4>
                 <small className='text-light'>Experienced</small>
                 </div>
-              </article>
-              <article className='experience__details'>
+              </article> */}
+              {/* <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>NodeJs</h4>
                 <small className='text-light'>Experienced</small>
                 </div>
-              </article>
+              </article> */}
             </div>
         </div>
       </div>

@@ -52,8 +52,8 @@ export const contact = () => {
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
-            <h5>+6285708558306</h5>
-            <a href="http://wa.me/+6285708558306" target='_blank'>Send a message</a>
+            <h5>+6287739739016</h5>
+            <a href="http://wa.me/+6287739739016" target='_blank'>Send a message</a>
           </article>
         </div>
         {/* end contact option */}
