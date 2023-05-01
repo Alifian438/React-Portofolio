@@ -7,6 +7,7 @@ import {BsGithub} from "react-icons/bs"
 import {BsYoutube} from "react-icons/bs"
 import {FaSteam} from "react-icons/fa"
 import {BsSpotify} from "react-icons/bs"
+import {FaTiktok} from "react-icons/fa"
 
 export const footer = () => {
   return (
@@ -29,6 +30,7 @@ export const footer = () => {
         <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ"><BsYoutube/></a>
         <a href="https://steamcommunity.com/id/alifian438/"><FaSteam/></a>
         <a href="https://open.spotify.com/user/lzzd908jhd1gp826hcrngb3va"><BsSpotify/></a>
+        <a href="https://www.tiktok.com/@m.alifian?lang=en"><FaTiktok/></a>
       </div>
 
       <div className="footer__copyright">
