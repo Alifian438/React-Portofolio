@@ -39,7 +39,7 @@ export const about = () => {
  
           </div>
           <p>
-          Saya fresh graduate dari Politeknik Negeri Jember, Jurusan Teknologi Informasi, Program Studi D3 Teknik Komputer dan mendapatkan IPK 3.80, saya merupakan orang yang bertanggung jawab, displin, suka belajar hal baru tentang teknologi. Saya berpengalaman pada bidang programming pada website dan microkontroller, dan juga berpengalaman pada bidang editing photo dan viddeo
+          Saya fresh graduate dari Politeknik Negeri Jember, Jurusan Teknologi Informasi, Program Studi D3 Teknik Komputer dan mendapatkan IPK 3.80, saya merupakan orang yang bertanggung jawab, displin, suka belajar hal baru tentang teknologi. Saya berpengalaman pada bidang programming pada website dan microkontroller, dan juga berpengalaman pada bidang editing photo dan video
           </p>
           <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         </div>
