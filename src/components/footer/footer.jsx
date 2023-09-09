@@ -27,7 +27,7 @@ export const footer = () => {
         <a href="https://www.instagram.com/m.alifian/"><BsInstagram/></a>
         <a href="https://www.linkedin.com/in/muhammad-rizky-alifian-sarodi-a99619245/"><BsLinkedin/></a>
         <a href="https://github.com/Alifian438"><BsGithub/></a>
-        <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ"><BsYoutube/></a>
+        {/* <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ"><BsYoutube/></a> */}
         <a href="https://steamcommunity.com/id/alifian438/"><FaSteam/></a>
         <a href="https://open.spotify.com/user/lzzd908jhd1gp826hcrngb3va"><BsSpotify/></a>
         <a href="https://www.tiktok.com/@m.alifian?lang=en"><FaTiktok/></a>
